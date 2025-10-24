@@ -2,7 +2,7 @@
 
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting.
 This repository provides queries for analyzing relational databases across multiple dimensions, helping data analysts and BI professionals quickly extract insights.
-
+___________________________________________________________________________________________________________________________________________________________________
 🚀 Features
 
 This project includes SQL scripts for:
@@ -21,6 +21,7 @@ This project includes SQL scripts for:
 
 Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
+___________________________________________________________________________________________________________________________________________________________________
 🛠 Usage
 
 Use these scripts as templates to analyze your own datasets.
@@ -30,6 +31,7 @@ Combine multiple scripts to generate comprehensive reports or dashboards.
 Modify filters, date ranges, or metrics to suit your specific business needs.
 
 
+___________________________________________________________________________________________________________________________________________________________________
 
 🤝 Contributing
 
@@ -43,6 +45,7 @@ Contributions are welcome!
  or submit a pull request
  for review.
 
+___________________________________________________________________________________________________________________________________________________________________
 📜 License
 
 This project is licensed under the [MIT License](https://github.com/saideepak94/sql-data-analytic-project/blob/main/LICENSE)
