@@ -19,3 +19,26 @@ Segmentation – Categorizing customers, products, or other entities based on bu
 Advanced Analytics – Cohort analysis, retention metrics, and custom business logic.
 
 Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+Usage
+
+Use these scripts as templates to analyze your own datasets.
+
+Combine multiple scripts to generate comprehensive reports or dashboards.
+
+Modify filters, date ranges, or metrics to suit your specific business needs.
+
+Contributing
+
+Contributions are welcome!
+
+Feel free to add new analytical scripts.
+
+Improve existing queries with optimization or better readability.
+
+Open an issue or submit a pull request for review.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE
+ file for details.
