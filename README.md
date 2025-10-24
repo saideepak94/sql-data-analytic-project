@@ -45,5 +45,6 @@ Contributions are welcome!
 
 📜 License
 
-This project is licensed under the [https://github.com/saideepak94/sql-data-analytic-project/blob/main/LICENSE]MIT License
+This project is licensed under the [MIT License](https://github.com/saideepak94/sql-data-analytic-project/blob/main/LICENSE)
+
 .
